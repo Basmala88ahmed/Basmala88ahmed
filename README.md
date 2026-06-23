@@ -14,7 +14,7 @@ I'm passionate about transforming raw data into meaningful insights and creating
 - Python for Data Analysis
 - Adobe Photoshop
 
-### 👨‍💻 Projects
+###  Projects
 - Data Cleaning Projects
 - Data Visualization Dashboards
 - Excel Reports
@@ -37,9 +37,6 @@ I'm passionate about transforming raw data into meaningful insights and creating
 - Email: basmala.2ahmed02@gmail.com
 - LinkedIn: https://www.linkedin.com/in/basmala-ahmed11
 - CV : https://docs.google.com/document/d/1BD25bTUuvtN3XFjPoiqR_w2CShi9JMQyiOQBPBdOvyY/edit?usp=sharing
-
-###  Fun Fact
-I enjoy finding patterns in data and turning ideas into creative designs.
 
 ---
 
