@@ -6,7 +6,7 @@ I'm passionate about transforming raw data into meaningful insights and creating
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 - Data Analysis
 - Excel
 - SQL
@@ -20,30 +20,30 @@ I'm passionate about transforming raw data into meaningful insights and creating
 - Excel Reports
 - Photoshop Design Projects
 
-### 💬 Ask Me About
+###  Ask Me About
 - Excel
 - SQL Basics
 - Power BI
 - Photoshop
 - Data Visualization
 
-### 🎯 Goals for 2025
+###  Goals for 2026
 - Build a strong Data Analysis portfolio
 - Master SQL and Power BI
 - Learn Python for Analytics
 - Create professional dashboard projects
 
-### 📫 Reach Me
+###  Reach Me
 - Email: basmala.2ahmed02@gmail.com
 - LinkedIn: https://www.linkedin.com/in/basmala-ahmed11
 - CV : https://docs.google.com/document/d/1BD25bTUuvtN3XFjPoiqR_w2CShi9JMQyiOQBPBdOvyY/edit?usp=sharing
 
-### ⚡ Fun Fact
+###  Fun Fact
 I enjoy finding patterns in data and turning ideas into creative designs.
 
 ---
 
-### 🛠️ Skills
+###  Skills
 
 **Data Analysis**
 - Excel
